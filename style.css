@@ -1,0 +1,26 @@
+body{
+	background-color: lightblue;
+	display: flex;
+	justify-content: center;
+
+}
+.box{
+	border:5px white solid;
+	border-radius: 9px;
+	margin: auto;
+	width: 4cm;
+	height: 6cm;
+	background-color: white;
+	margin-top:0px; 
+	text-align: center; 
+}
+.box img{
+	width: 4cm;
+	border-radius: 9px;
+}
+.p{
+	font-size: 11px;
+}
+.p-2{
+	font-size: 8px;
+}
